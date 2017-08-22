@@ -2,7 +2,7 @@
 
 
 ### Here is what I am getting
-![Image of what I am getting](./screenshots/whatIamgetting.png)
+![Image of what I am getting](./screenshots/whatIamgetting.PNG)
 
 ### Here is what I want which is already shonw in your website
 ![Image of what I want](./screenshots/whatIwant.png)
